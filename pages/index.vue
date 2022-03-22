@@ -1,5 +1,5 @@
 <template>
-  <Tutorial/>
+  <MapImage/>
 </template>
 
 <script>
